@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="article_title">Louvre Museum</string>
+    <string name="article_content">
+        Formerly a royal palace, the Louvre has embraced the history of France for eight centuries.
+        Intended as a universal museum since its inception in 1793,
+        its collections—among the finest in the world—span several thousands of years and a territory that extends from America to the confines of Asia.
+        Divided among eight departments, these collections feature works admired throughout the globe,
+        including the <i>Mona Lisa</i>, the <i>Winged Victory of Samothrace</i>, and the <i>Venus de Milo</i>.
+        With nearly ten million visitors in 2012, the Louvre is the world’s most visited museum.\n
+        \n
+        The Louvre is universal both in terms of the wealth of its collections and the great diversity of its visitors.
+        Of the nearly ten million people who visited the Louvre in 2012, 69 percent were of overseas origin,
+        with 15 percent from the United States of America, 7 percent from China, and 6 percent from Brazil.
+        To adapt to the diverse nature of this public, the Louvre continually strives for greater accessibility.
+        To this end, its initiatives include the progressive widespread use of labeling in two or even three languages
+        to describe the 38,000 artworks exhibited; the revamped numbering of exhibition rooms; the development of a new,
+        more user-friendly floor plan; and the fostering of art education.
+        In addition, the Louvre website (<b>www.louvre.fr/en</b>) offers various visitor tips on planning a visit,
+        gaining in-depth knowledge, and teaching art history to children. \n
+        \n
+        Not content merely to receive visitors, the Louvre often engages in public outreach, in France in particular.
+        The opening, on December 4, 2012, of the Louvre Lens in northern France is a case in point.
+        The building, designed by the Japanese architectural firm Sanaa, winner of the Pritzker Architecture Prize in 2010,
+        consists of two main wings with glass and polished aluminum façades that blend seamlessly into landscaped grounds designed
+        by French landscape architect, Catherine Mosbach.
+        The 205 artworks on display there are taken from the Louvre’s collections and are renewed on a regular basis.
+        After <i>Liberty leading the people</i> in 2013, visitors can admire <i>Oedipus and the Sphinx</i> by Ingres.
+        In addition, the Louvre pursues an active policy of loans and exhibitions, throughout France,
+        in collaboration with French regional museums.\n
+        \n
+        In keeping with the universal scope of its vocation, the Louvre enjoys relations with over seventy-five countries.
+        Its activities serve to strengthen its bonds with its collections’ countries of origin,
+        to gain a better understanding of overseas visitors, and to reach out to those who are unable to travel to Paris.
+        \n
+        These activities can take several forms, including scientific consultancy, technical assistance, excavations, artwork loans,
+        exhibition organization, and the reception of official delegations.
+        \n
+        Examples of actions already undertaken include the opening, in January 2007, of a new excavation site in El-Muweis, Sudan;
+        the launch of an exemplary partnership with the Bardo Museum in Tunisia,
+        enabling the creation of an on-site training initiative as part of the conservation of the Carthage room; the signing,
+        on May 4, 2012, of a Protocol Agreement with the national museum foundation (FNM) of Morocco
+        to prepare for the organization in October 2014 of an exhibition at the Louvre on medieval Morocco.
+        \n
+        Furthermore, the Louvre has helped to organize over forty exhibitions held in eighteen countries and which attracted close
+        to four million visitors. In 2011 and 2012, twenty-four exhibitions were organized with its support.
+        \n
+    </string>
+</resources>
